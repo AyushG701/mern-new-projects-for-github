@@ -1,4 +1,3 @@
-
 export const villas = [
   {
     id: 1,
@@ -118,4 +117,3 @@ export const villas = [
     dailyRent: "180",
   },
 ];
-
