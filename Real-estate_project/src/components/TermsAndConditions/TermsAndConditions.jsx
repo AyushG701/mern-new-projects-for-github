@@ -19,7 +19,7 @@ const TermsAndConditions = () => {
         </p>
         <ul>
           <li>
-           <h5> Acceptance of Terms:</h5>
+            <h5> Acceptance of Terms:</h5>
             <p>
               By using the Website, you acknowledge that you have read,
               understood, and agree to be bound by these Terms and any future
@@ -30,9 +30,7 @@ const TermsAndConditions = () => {
             </p>
           </li>
           <li>
-            <h5>
-            Use of the Website
-            </h5>
+            <h5>Use of the Website</h5>
             <ol>
               <li> You must be at least [age] years old to use the Website.</li>
               <li>
@@ -48,9 +46,7 @@ const TermsAndConditions = () => {
             </ol>
           </li>
           <li>
-            <h5>
-            Privacy Policy
-            </h5>
+            <h5>Privacy Policy</h5>
             <p>
               Your use of the Website is also governed by our Privacy Policy,
               which is incorporated by reference into these Terms.
@@ -95,7 +91,7 @@ const TermsAndConditions = () => {
               These Terms shall be governed by and construed in accordance with
               the laws of Jurisdiction. Contact Information If you have any
               questions about these Terms, please contact us at{" "}
-              <span>luxuryvilla@gmail.com</span>.
+              <span>REnatalservices@gmail.com</span>.
             </p>
           </li>
         </ul>
